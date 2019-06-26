@@ -1,6 +1,7 @@
 MetaTrader 4 EA 授权管理程序 
 ===============
-版本：EA_Auth v1.0.1
+版本：EA_Auth v1.0.1 [点击下载](https://github.com/tanzhenxing/EA_Auth/archive/1.0.1.zip)
+
 ## 开发规划
 下一个版本计划：增加前台界面
 1. 提供会员模块，提供会员登录、注册、会员中心等功能，支持查看会员所属的交易账户列表和对应的授权码、到期时间等。
