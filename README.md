@@ -14,11 +14,10 @@ MetaTrader 4 EA 授权管理程序
 也可以加我微信，赞助一下，感谢您的支持！
 获取完整的服务器端授权管理系统程序,以及长期维护、升级服务！
 
-[![my wechat](https://wximg-10001398.file.myqcloud.com/cofan/tan-zhen-xing.jpg)]
+[![my wechat](https://wximg-10001398.file.myqcloud.com/cofan/tan-zhen-xing.jpg)](http://auth.weilian.org.cn/)
 
 MetaTrader 4 EA 授权展示
-[![my mt4](https://wximg-10001398.file.myqcloud.com/cofan/mt4.png)]
+[![mt4](https://wximg-10001398.file.myqcloud.com/cofan/mt4.png)](http://auth.weilian.org.cn/)
 
 授权管理系统后台界面预览
-[![my ht](https://wximg-10001398.file.myqcloud.com/cofan/ht.png)]
-
+[![my ht](https://wximg-10001398.file.myqcloud.com/cofan/ht.png)](http://auth.weilian.org.cn/)
