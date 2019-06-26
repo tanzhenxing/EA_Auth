@@ -9,7 +9,7 @@ MetaTrader 4 EA 授权管理程序
 
 ## 安装
 
-1. 把 Auth.ex4 Auth.mql、 hash.mqh、json.mqh 这四个文件复制到 MetaTrader 4\MQL4\Experts 文件夹里
+1. 把 Auth.ex4、 Auth.mql、 hash.mqh、json.mqh 这四个文件复制到 MetaTrader 4\MQL4\Experts 文件夹里
 
 然后你就可以直接加载 Auth 这个EA 到图表(会有授权不成功的提示)，
 你也可以 修改 Auth.mql 中接口url、EA名称等 相关信息，然后重新编译成 Auth.ex4，再加载到图表
