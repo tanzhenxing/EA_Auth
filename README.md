@@ -1,6 +1,6 @@
 MetaTrader 4 EA 授权管理程序 
 ===============
-版本：EA_Auth v1.0.1 [点击下载](https://github.com/tanzhenxing/EA_Auth/archive/1.0.2.zip)
+版本：EA_Auth v1.0.2 [点击下载](https://github.com/tanzhenxing/EA_Auth/archive/1.0.2.zip)
 
 ## 安装
 
