@@ -6,11 +6,26 @@ MetaTrader 4 EA 授权管理程序
 
 1. 把 Auth.ex4、 Auth.mql、 hash.mqh、json.mqh 这四个文件复制到 MetaTrader 4\MQL4\Experts 文件夹里
 
-然后你就可以直接加载 Auth 这个EA 到图表(会有授权不成功的提示)，
-你也可以 修改 Auth.mql 中接口url、EA名称等 相关信息，然后重新编译成 Auth.ex4，再加载到图表
+2. 打开 MetaTrader 4 终端程序，把Auth.ex4加载到图表
 
-2. /server 目录下的api.php 只是一个接口测试示例
-你可以自己开发服务端的接口程序
+##  提示
+1. 运行EA，需要勾选【dll导入】权限
+[![mt4](https://wximg-10001398.file.myqcloud.com/cofan/dll.png)](http://auth.weilian.org.cn/)
+
+2. 如果出现授权不成功的提示，需要你把授权接口url ，修改成你自己的网址。
+~~~
+把 Auth.mql 文件中的代码
+string auth_url = "https://auth.weilian.org.cn/api/auth/verify/key/";
+修改成 
+string auth_url = "你自己的接口授权网址";
+
+然后重新编译成 Auth.ex4，再加载到图表
+~~~
+
+3. /server 目录下的api.php 只是一个接口测试示例
+a. 你可以自己开发服务端的接口程序
+
+b. 或者使用我们的EA授权管理系统
 
 ## MetaTrader 4 EA 授权展示
 [![mt4](https://wximg-10001398.file.myqcloud.com/cofan/mt4.png)](http://auth.weilian.org.cn/)
